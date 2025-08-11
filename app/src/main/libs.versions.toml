@@ -1,0 +1,8 @@
+[versions]
+androidxNavigation = "2.9.3" # Or your desired version
+
+[libraries]
+androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "androidxNavigation" }
+
+# ... other libraries and plugins
+        
